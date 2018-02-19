@@ -1,0 +1,11 @@
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\bin\Debug\Database1.mdf
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\bin\Debug\Database1_log.ldf
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\bin\Debug\Library_Management.exe.config
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\bin\Debug\Library_Management.exe
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\bin\Debug\Library_Management.pdb
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.csprojResolveAssemblyReference.cache
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.Properties.Resources.resources
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.GenerateResource.Cache
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.csproj.CoreCompileInputs.cache
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.exe
+C:\Users\ok\Documents\Visual Studio 2017\Projects\Library_Management\Library_Management\obj\Debug\Library_Management.pdb
