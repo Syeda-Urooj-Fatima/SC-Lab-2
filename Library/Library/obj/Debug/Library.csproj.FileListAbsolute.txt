@@ -1,0 +1,10 @@
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\bin\Debug\Library.exe.config
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\bin\Debug\Library.exe
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\bin\Debug\Library.pdb
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.Form1.resources
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.Properties.Resources.resources
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.exe
+c:\users\ok\documents\visual studio 2017\Projects\Library\Library\obj\Debug\Library.pdb
